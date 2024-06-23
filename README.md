@@ -1,1 +1,0 @@
-# Utality-store-management-system
